@@ -1,6 +1,6 @@
 {
     "name": "jsonpath-cli",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Command Line node application to query JSON using jsonpath",
     "main": "bin/index.js",
     "scripts": {
@@ -16,5 +16,7 @@
     },
     "repository": {
         "url": "https://github.com/rsingh25/jsonpath-cli"
-    }
+    },"keywords": [
+        "jsonpath", "cli", "json"
+    ]
 }
