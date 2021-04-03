@@ -1,0 +1,20 @@
+{
+    "name": "jsonpath-cli",
+    "version": "1.0.0",
+    "description": "Command Line node application to query JSON using jsonpath",
+    "main": "bin/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "raghvendra.pratap.singh@gmail.com",
+    "license": "ISC",
+    "bin": {
+        "jpath": "bin/index.js"
+    },
+    "dependencies": {
+        "jsonpath": "^1.1.1"
+    },
+    "repository": {
+        "url": "https://github.com/rsingh25/jsonpath-cli"
+    }
+}
