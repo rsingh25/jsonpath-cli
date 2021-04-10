@@ -12,11 +12,15 @@
         "jpath": "bin/index.js"
     },
     "dependencies": {
-        "jsonpath": "^1.1.1"
+        "jsonpath": "^1.1.1",
+        "yargs": "^16.2.0"
     },
     "repository": {
         "url": "https://github.com/rsingh25/jsonpath-cli"
-    },"keywords": [
-        "jsonpath", "cli", "json"
+    },
+    "keywords": [
+        "jsonpath",
+        "cli",
+        "json"
     ]
 }
